@@ -4,6 +4,18 @@ Educational symptom checker. You describe how you feel, the app searches your ow
 
 **This is not medical advice.** It does not diagnose, prescribe, or invent drug dosages. Always consult a qualified clinician.
 
+Screenshots:-
+
+<img width="1071" height="739" alt="Screenshot 2026-09-24 at 10 50 06 AM" src="https://github.com/user-attachments/assets/4560e013-ca51-4950-96f1-bd98b78d26be" />
+
+<img width="907" height="690" alt="Screenshot 2026-09-24 at 10 50 31 AM" src="https://github.com/user-attachments/assets/f171c1f4-833e-4004-806f-fca101c8970c" />
+
+<img width="840" height="740" alt="Screenshot 2026-09-24 at 10 50 52 AM" src="https://github.com/user-attachments/assets/7753cf5f-3ff7-4d59-bbd5-558766607391" />
+
+<img width="883" height="781" alt="Screenshot 2026-09-24 at 10 51 05 AM" src="https://github.com/user-attachments/assets/1d4d87e7-8ac0-4eee-9d9e-30f1035a11fb" />
+
+
+
 ## Features
 
 ### Symptom analysis
